@@ -1,6 +1,6 @@
-# 🎵 El Rincón del Vinillo
+# 🎵 El Rincón del Vinilo
 
-Este repositorio contiene la documentación, diseño y código base para **El Rincón del Vinillo**, una tienda online dedicada a la venta de discos de vinilo. 
+Este repositorio contiene la documentación, diseño y código base para **El Rincón del Vinilo**, una tienda online dedicada a la venta de discos de vinilo. 
 
 Este proyecto fue desarrollado como parte de la Actividad Formativa del **Taller de Aplicaciones de Internet** (AIEP). Nuestro equipo se enfocó fuertemente en la fase de análisis de sistemas, abarcando el levantamiento de requerimientos, el diseño de la experiencia de usuario (Wireframes) y la estructuración de los datos.
 
@@ -15,7 +15,7 @@ Este proyecto fue desarrollado como parte de la Actividad Formativa del **Taller
 
 ## 🔗 Enlaces del Proyecto
 
-* **Despliegue en Vivo:** [El Rincón del Vinillo (Vercel)](https://el-rincon-del-vinilo.vercel.app/)
+* **Despliegue en Vivo:** [El Rincón del Vinilo (Vercel)](https://el-rincon-del-vinilo.vercel.app/)
 * **Repositorio:** [GitHub](https://github.com/ChristianMarquezE/El_Rincon_Del_Vinilo)
 * **Diseño UX/UI:** [Wireframes Interactivos en Moqups](https://app.moqups.com/1Fd97Kl4smDhAihliqW58kwrSrVz6WAx/view/page/ad64222d5?ui=0&fit_width=1)
 
@@ -64,4 +64,4 @@ Si deseas correr este proyecto en tu entorno local para revisar la maquetación:
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/ChristianMarquezE/El_Rincon_Del_Vinillo.git](https://github.com/ChristianMarquezE/El_Rincon_Del_Vinillo.git)gi
+   git clone [https://github.com/ChristianMarquezE/El_Rincon_Del_Vinilo.git](https://github.com/ChristianMarquezE/El_Rincon_Del_Vinilo.git)gi
