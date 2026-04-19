@@ -64,4 +64,4 @@ Si deseas correr este proyecto en tu entorno local para revisar la maquetación:
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/ChristianMarquezE/El_Rincon_Del_Vinilo.git](https://github.com/ChristianMarquezE/El_Rincon_Del_Vinilo.git)gi
+   git clone [https://github.com/ChristianMarquezE/El_Rincon_Del_Vinilo.git](https://github.com/ChristianMarquezE/El_Rincon_Del_Vinilo.git)
