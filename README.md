@@ -17,7 +17,7 @@ Este proyecto fue desarrollado como parte de la Actividad Formativa del **Taller
 
 * **Despliegue en Vivo:** [El Rincón del Vinilo (Vercel)](https://el-rincon-del-vinilo.vercel.app/)
 * **Repositorio:** [GitHub](https://github.com/ChristianMarquezE/El_Rincon_Del_Vinilo)
-* **Diseño UX/UI:** [Wireframes Interactivos en Moqups](https://app.moqups.com/1Fd97Kl4smDhAihliqW58kwrSrVz6WAx/view/page/ad64222d5?ui=0&fit_width=1)
+* **Diseño UX/UI:** [Wireframes Interactivos en Moqups](https://app.moqups.com/1Fd97Kl4smDhAihliqW58kwrSrVz6WAx/view)
 
 ---
 
